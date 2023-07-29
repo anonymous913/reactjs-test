@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Domine:wght@400;500;600;700&family=Hind+Siliguri:wght@500&family=Playfair+Display:wght@400;500;600;700&display=swap');
+
 .App {
   text-align: center;
 }
@@ -6,7 +8,7 @@ h2 {
   color: blue;
   background-color: antiquewhite;
   font-size: 40px;
-  font-family: Domine;
+  font-family: 'Domine', serif;
   text-transform: uppercase;
 }
 .person{
@@ -16,7 +18,8 @@ h2 {
   padding: 20px;
   margin: 20px;
   border-radius: 40px;
-  font-family: Domine, Hind Siliguri;
+  font-family: 'Domine', serif;
+  font-family: 'Hind Siliguri', sans-serif;
   text-transform: uppercase;
 }
 
@@ -28,13 +31,13 @@ h2 {
   margin: 20px;
   border-radius: 60px;
   text-transform: uppercase;
-  font-family: Cambria;
+  font-family: 'Domine', serif;
 }
 
 li{
   color: red;
   text-transform: uppercase;
-  font-family: Cambria;
+  font-family: 'Domine', serif;
   font-size: 25px;
   background-color: antiquewhite;
   list-style: o;
